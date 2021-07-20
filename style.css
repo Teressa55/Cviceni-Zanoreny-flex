@@ -15,3 +15,22 @@ body {
 
 /* ------------- pod čáru přijdou tvé styly ------------- */
 
+.kontejner{
+	display: flex;
+}
+.pravy{
+	display: flex;
+	flex-direction: column;
+	flex-basis: 50%;
+}
+.levy{
+	flex-basis: 50%;
+}
+.horni,
+.dolni{
+	flex-basis: 50%;
+}
+
+	
+
+
